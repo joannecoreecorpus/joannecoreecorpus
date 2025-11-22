@@ -15,4 +15,3 @@
 
 ## Let’s Connect!  
 - *Email:* joannecoreebcorpus@gmail.com  
-courses.cognitiveclass.ai
