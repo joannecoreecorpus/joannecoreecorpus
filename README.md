@@ -12,7 +12,7 @@
 ## Skill Sets  
 - *Programming:* Java, JavaScript, HTML  
 - *Databases:* SQL  
-- *Tools:* Lucidchart, IntelliJ
+- *Tools:* Lucidchart, IntelliJ, HTML
 
 ## Let’s Connect!  
 - *Email:* joannecoreebcorpus@gmail.com  
