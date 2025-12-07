@@ -1,4 +1,5 @@
 # Hi there, I'm Joanne Coree Corpus! 
+Hello! Welcome to my GitHub profile! I'm a BS Computer Science student who loves diving into technology, experimenting with code, and learning something new every day. I enjoy exploring different programming concepts, building practical projects, and developing solutions that make an impact.
 
 ## 🎓 Education
 - *BS Computer Science*  
