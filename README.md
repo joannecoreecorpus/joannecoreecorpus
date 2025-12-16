@@ -10,6 +10,7 @@ Welcome to my GitHub profile! I'm a BS Computer Science student who loves diving
 - [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/7cc5068b7fe64170a55e2fed6bf1f7f9)
 - [Oracle Cloud Infrastructure Foundations Associate (2025)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=50CC01988A3037FE7938516CAB7DB60D5422E0459D3DC20A1EDDAE8C153A437C)
 - [Oracle Data Platform Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=D634DF5E6E53D68CB71EFD58B4996481D3A8CE79FFAFEBA1AE251D3E09C95400)
+- [OCI AI Foundations Associate (2025)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=5D5D4E581527E153D7C2E0A6EB141751D60B25218253B7B187D61A0636F0E690)
 
 ## 🛠️ Skill Sets
 - *Programming:* Java, JavaScript, HTML  
